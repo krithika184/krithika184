@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Krithika</h1>
-<h3 align="center">An enthusiastic and creative computer science engineer</h3>
+<h1 align="center">Hey! I'm Krithika.</h1>
+<h3 align="center"> Backend developer exploring AI-driven solutions. </h3>
 
-- Student at **Amrita Vishwa Vidyapeetham**
+In my early career with about **two years of experience**, I am currently working as a **backend developer**.  I hold a **bachelor's degree in Computer Science** from Amrita Vishwa Vidyapeetham. Alongside my backend expertise, I am passionate about integrating AI solutions to create impactful and innovative software.
 
-- Currently pursuing **B.Tech Computer Science Engineering**
+Always exploring new technologies and opportunities to learn and grow.
 
-- Email ID: **kirthika184@gmail.com**
-
-- Resume: [https://drive.google.com/file/d/1LHFJm14i14znwcK-AWTWpqUab-14vt8w/view?usp=sharing](https://drive.google.com/file/d/1LHFJm14i14znwcK-AWTWpqUab-14vt8w/view?usp=sharing)
+- Resume: (https://docs.google.com/document/d/10ZSv5iQ5I8eeDPCxX4EelbqLI5CePSLCmrYtSMq--2M/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/krithi_tweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krithi_tweet" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/krithika-alagar-151662214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krithika-alagar-151662214/" height="30" width="40" /></a>
+<a href="https://twitter.com/krithi_tweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krithi_tweet" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
